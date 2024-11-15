@@ -1,0 +1,19 @@
+hey, i'm @mahfeart
+I'm interested in devepment of programs and creation of graphics 
+I'm currently undergraduate looking forward to graduate from diploma in information communication technology 
+I am looking to collaborate withother programmers in program development and coding 
+You can reach me at my gmail address =lelesiitsospeter@gmail.com 
+~sosmah~
+funny fact about me is that i i don't fear to face anything 
+- 👋 Hi, I’m @mahfeart
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+<!---
+mahfeart/mahfeart is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
